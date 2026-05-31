@@ -4,8 +4,8 @@
 
 词库内容：
 
-`sogou_dicts` ：所有搜狗细胞词库
-`misc_dicts\zhwiki.dict.yaml` ：中文 Wiktionary 词库
+`sogou_dicts` ：所有搜狗细胞词库<br />
+`misc_dicts\zhwiki.dict.yaml` ：中文 Wiktionary 词库<br />
 `misc_dicts\cjk_unihan_kmandarin.dict.yaml` ： Unicode 17.0 Unihan 单子生僻字词库
 
 我个人的使用方式是添加到雾凇的词库配置部分：
